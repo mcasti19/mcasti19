@@ -80,7 +80,6 @@ I'm excited to keep learning and growing in the web development world, always lo
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mcasti19.mcasti19&left_color=black&right_color=darkslategray"  />
 </div>
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
