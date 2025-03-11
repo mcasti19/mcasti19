@@ -15,13 +15,7 @@ I'm excited to keep learning and growing in the web development world, always lo
 </p>
 
 ###
-
-<h2 align="left">About me</h2>
-
 ###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -100,7 +94,6 @@ I'm excited to keep learning and growing in the web development world, always lo
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcasti19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <!--
 
