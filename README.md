@@ -29,8 +29,9 @@ I'm excited to keep learning and growing in the web development world, always lo
 
 ###
 
-<div align="left">
+<div align="left" display="flex">
 <h3 align="left">FrontEnd</h3>
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
@@ -52,6 +53,7 @@ I'm excited to keep learning and growing in the web development world, always lo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="36" alt="materialui logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36" alt="redux logo"  />
+    </div>
 </div>
 
 ###
