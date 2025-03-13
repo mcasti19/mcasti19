@@ -28,8 +28,6 @@ I'm excited to keep learning and growing in the web development world, always lo
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
   <img width="26" />
@@ -65,8 +63,6 @@ I'm excited to keep learning and growing in the web development world, always lo
 <h3 align="center">BackEnd</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo"  />
@@ -123,6 +119,8 @@ I'm excited to keep learning and growing in the web development world, always lo
 <p align="left"></p>
 
 ###
+
+<br clear="both">
 
 <h3 align="center">Social Media</h3>
 
