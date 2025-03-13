@@ -90,6 +90,8 @@ I'm excited to keep learning and growing in the web development world, always lo
 
 ###
 
+<br clear="both">
+
 <h3 align="center">Tools</h3>
 
 ###
