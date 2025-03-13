@@ -25,9 +25,7 @@ I'm excited to keep learning and growing in the web development world, always lo
 <h3 align="center">FrontEnd</h3>
 
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
   <img width="26" />
@@ -51,19 +49,14 @@ I'm excited to keep learning and growing in the web development world, always lo
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36" alt="redux logo"  />
 </div>
-
 ###
-
 <p align="left"></p>
-
 ###
 
 <br clear="both">
 
 <h3 align="center">BackEnd</h3>
-
 ###
-
 <br clear="both">
 
 <div align="center">
