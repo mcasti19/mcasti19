@@ -133,6 +133,9 @@ I'm excited to keep learning and growing in the web development world, always lo
 
 ###
 
+![Mis Stats](https://github-readme-stats.vercel.app/api?username=mcasti19&show_icons=true&theme=tokyonight)
+![Mis Trofeos](https://github-profile-trophies.vercel.app/?username=mcasti19&theme=tokyonight)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mcasti19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcasti19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
