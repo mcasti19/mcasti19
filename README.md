@@ -4,17 +4,17 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mcasti19.mcasti19&left_color=000000&right_color=0078d4" alt="Visitors" />
 </p>
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Profile
 
-I'm a **Web Developer** from Venezuela 🇻🇪 with 2 years of experience. My heart belongs to the **FrontEnd**, where I craft attractive and functional interfaces, but I also enjoy diving into the **BackEnd** to build robust solutions.
+Software Developer based in Venezuela 🇻🇪 with **3 years of experience** building scalable and user-centric web applications. I specialize in the **MERN Stack**, focusing on creating high-performance FrontEnd architectures while maintaining a solid understanding of BackEnd systems.
 
-- 🔭 I’m currently exploring new challenges and innovative projects.
-- ⚡ Quick learner and adaptable to new tools and environments.
-- 🎨 Passionate about UI/UX and smooth user experiences.
+- 🚀 **AI-Driven Development:** I leverage modern **AI models and agents** to optimize coding workflows, automate repetitive tasks, and significantly reduce development time without compromising quality.
+- 🎨 **UI/UX Obsessed:** Dedicated to transforming complex requirements into intuitive, pixel-perfect digital experiences.
+- 🛠️ **Problem Solver:** Proactive in adopting new technologies and agile methodologies to deliver robust software solutions.
 
 ---
 
-### 📊 Activity & Performance
+### 📊 Performance & Consistency
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcasti19&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
@@ -24,10 +24,6 @@ I'm a **Web Developer** from Venezuela 🇻🇪 with 2 years of experience. My h
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcasti19&layout=compact&theme=tokyonight&langs_count=6" height="170" alt="languages graph" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=mcasti19&theme=tokyonight&column=7" alt="trophies" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
@@ -35,42 +31,42 @@ I'm a **Web Developer** from Venezuela 🇻🇪 with 2 years of experience. My h
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>Project Name 1 🌟</h4>
-      <p>Brief description of what this project does and the problem it solves.</p>
-      <p><b>Tech stack:</b> <img src="https://skillicons.dev/icons?i=react,tailwind,firebase" height="20" /></p>
-      <a href="URL_DEL_REPOSITORIO">View Repo</a> | <a href="URL_DEL_DEMO">Live Demo</a>
+      <h4>Enterprise SaaS Dashboard 📊</h4>
+      <p>A high-performance dashboard featuring real-time data visualization. Optimized for speed and accessibility using modern React patterns.</p>
+      <p><b>Key Tech:</b> <img src="https://skillicons.dev/icons?i=react,tailwind,redux" height="20" /></p>
+      <a href="TU_LINK">Code</a> | <a href="TU_LINK">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h4>Project Name 2 🚀</h4>
-      <p>Brief description of what this project does and the problem it solves.</p>
-      <p><b>Tech stack:</b> <img src="https://skillicons.dev/icons?i=nextjs,ts,mongodb" height="20" /></p>
-      <a href="URL_DEL_REPOSITORIO">View Repo</a> | <a href="URL_DEL_DEMO">Live Demo</a>
+      <h4>E-commerce Core Engine 🛒</h4>
+      <p>A full-stack solution with secure payment integration and dynamic inventory management, built to handle concurrent user traffic.</p>
+      <p><b>Key Tech:</b> <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb" height="20" /></p>
+      <a href="TU_LINK">Code</a> | <a href="TU_LINK">Live Demo</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Specialized Tech Stack
 
-<h4 align="center">FrontEnd</h4>
+<h4 align="center">FrontEnd Mastery</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui" />
 </p>
 
-<h4 align="center">BackEnd & Database</h4>
+<h4 align="center">BackEnd & Infrastructure</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
 </p>
 
-<h4 align="center">Tools & Others</h4>
+<h4 align="center">Engineering Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,npm,yarn,trello,slack" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,yarn,trello,slack" />
 </p>
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="TU_LINK_DE_LINKEDIN" target="_blank">
